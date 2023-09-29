@@ -1,0 +1,11 @@
+﻿  pa6.c
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(19,1): warning C4027: function declared without formal parameter list
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(32,22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(32,16): warning C4024: 'display_board': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(32,30): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[10]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(32,24): warning C4024: 'display_board': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(43,25): warning C4028: formal parameter 1 different from declaration
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(43,44): warning C4028: formal parameter 2 different from declaration
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(74,26): warning C4028: formal parameter 1 different from declaration
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\PA6\pa6.c(74,45): warning C4028: formal parameter 2 different from declaration
+  PA6.vcxproj -> C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA6\Debug\PA6.exe
